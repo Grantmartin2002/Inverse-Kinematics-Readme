@@ -1,4 +1,6 @@
 ﻿# Inverse-Kinematics-In-Opengl
+NOTICE: This project is a read-me ONLY. The codebase the project was developed on is confidential and thus cannot be shared.
+
 [Presentation](https://www.youtube.com/watch?v=vPFdCkK3YcM) (Presents outdated codebase. Quaternion calcultions have been remedied as explained below).
 
 I implemented inverse kinematics in opengl
