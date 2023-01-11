@@ -1,4 +1,6 @@
 ﻿# Inverse-Kinematics-In-Opengl
+[Presentation](https://www.youtube.com/watch?v=vPFdCkK3YcM) (Presents outdated codebase. Quaternion calcultions have been remedied as explained below).
+
 I implemented inverse kinematics in opengl
 
 Development Process:
