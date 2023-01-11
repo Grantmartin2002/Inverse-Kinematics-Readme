@@ -1,10 +1,6 @@
 ﻿# Inverse-Kinematics-In-Opengl
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- NOTICE: This project is a read-me ONLY. The codebase the project was developed on is confidential and thus cannot be shared.
 ```
 [Presentation](https://www.youtube.com/watch?v=vPFdCkK3YcM) (Presents outdated codebase. Quaternion calcultions have been remedied as explained below).
 
