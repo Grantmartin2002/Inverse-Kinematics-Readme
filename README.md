@@ -4,7 +4,7 @@
 ```
 [Presentation](https://www.youtube.com/watch?v=vPFdCkK3YcM) (Presents outdated codebase. Branching, quaternion calcultions, and end effector movement have been remedied as explained below).
 
-I implemented inverse kinematics in opengl
+I implemented inverse kinematics in OpenGl
 
 Development Process:
 
